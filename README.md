@@ -36,9 +36,11 @@ Most safety apps rely on manually pressing an SOS button. In a real emergency, a
 
 ## Screenshots
 
-| Home / SOS | Live Tracking | Admin Dashboard |
-|-----------|---------------|-----------------|
-| ![Home](screenshots/home.png) | ![Tracking](screenshots/tracking.png) | ![Admin](screenshots/admin.png) |
+## Screenshots
+
+| Home | Emergency / SOS | Admin Dashboard |
+|------|-----------------|-----------------|
+| ![Home](home.jpg) | ![SOS](sos.jpg) | ![Admin](admin.jpg) |
 
 ## How It Works
 
