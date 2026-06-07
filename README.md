@@ -1,7 +1,6 @@
 # SheGuardian — AI-Powered Women's Safety App
 
-An Android app that protects women in emergencies by detecting danger **automatically** and alerting trusted contacts — without the user needing to unlock or even touch the phone.
-
+An Android app that protects women in emergencies by detecting danger **automatically** and alerting trusted contacts — with very little manual interference
 > Final Year Project — BS Information Technology, International Islamic University, Islamabad.
 
 ---
