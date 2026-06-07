@@ -36,11 +36,14 @@ Most safety apps rely on manually pressing an SOS button. In a real emergency, a
 
 ## Screenshots
 
-## Screenshots
-
 | Home | Emergency / SOS | Admin Dashboard |
 |------|-----------------|-----------------|
 | ![Home](home.jpg) | ![SOS](sos.jpg) | ![Admin](admin.jpg) |
+
+### Live Alert Example
+A real SOS alert delivered to a trusted contact — with location, time, and trigger source:
+
+![Alert](alert.jpg)
 
 ## How It Works
 
